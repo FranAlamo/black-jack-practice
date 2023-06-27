@@ -21,5 +21,6 @@ button {
   color: #016f32;
   font-weight: bold;
   font-size: 1em;
+  margin-bottom: 10px;
   border-radius: 2px;
 }
